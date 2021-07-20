@@ -19,3 +19,15 @@ body {
 .row {
     width : 50%
 }
+.additionner {
+    color:red;
+}
+.multiplier {
+    color:orange;
+}
+.diviser {
+    color:green;
+}
+.soustraire {
+    color: blue;
+}
