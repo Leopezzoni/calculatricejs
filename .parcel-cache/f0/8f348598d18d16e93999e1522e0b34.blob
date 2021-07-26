@@ -1,0 +1,22 @@
+/* on va centrer le texte sur toute la page*/
+body {
+    text-align: center
+}
+ 
+ 
+/* On va appliquer display flex sur tout les row */
+.row {
+    display: flex;
+    flex-direction: row;
+    border : solid black;
+}
+ 
+/* on va aussi appliquer display flex sur le container */
+.container {
+    display:flex;
+}
+ 
+.row {
+    width : 50%
+}
+/*# sourceMappingURL=index.HASH_REF_fd2ab90d027c36bc482ca7edea68c68a.css.map */

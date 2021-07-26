@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Calculatrice version 2</title>
-        <link rel="stylesheet" href="./css/style.css">
+        <link rel="stylesheet" href="beea01dad795cd88139d4e963f11a221">
     </head>
  
     <body>
@@ -11,8 +11,8 @@
         <div class="container">
             <div class="row">
                 <div class="contenu">
-                    <p>Valeur 1 : <input id="input1" type="number" /></p>
-                    <p>Valeur 2 : <input id="input2" type="number" /></p>
+                    <p>Valeur 1 : <input id="input1" type="number"></p>
+                    <p>Valeur 2 : <input id="input2" type="number"></p>
                     <p>
                       <button id="addition" onclick="calculer('+')">+</button>
                       <button id="soustract" onclick="calculer('-')">-</button>
@@ -30,6 +30,6 @@
             
  
         </div>
-        <script src="js/calculatrice.js"></script>
+        <script src="3c0b8cb26a50a624913405158838f424"></script>
     </body>
 </html>

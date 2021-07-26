@@ -1,8 +1,5 @@
 function remove (event) {
-  let addition = document.getElementById("addition");
-  addition.remove(event);
-  console.log(event);
-  console.log(event.target);
+  console.log("toto", event);
 }
 // 1. Fonction addition
 function calculer(operateur) {
@@ -39,7 +36,7 @@ function calculer(operateur) {
   }
 
   // ajouter les attribut à li pour ajouter une class selon l'opérateur
-  resultat += "<button onclick=\"remove(event)\">X</button>";
+
   li.innerHTML = resultat;
   resultatHTml.appendChild(li);
 }

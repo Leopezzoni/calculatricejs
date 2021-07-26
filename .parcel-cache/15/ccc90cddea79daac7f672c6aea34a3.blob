@@ -1,7 +1,4 @@
 function remove (event) {
-  let addition = document.getElementById("addition");
-  addition.remove(event);
-  console.log(event);
   console.log(event.target);
 }
 // 1. Fonction addition
