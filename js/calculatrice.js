@@ -55,3 +55,4 @@ function removeElt (event) {
   currentElt.remove()
 }
 
+//Template-Jquery-VueJs//
